@@ -124,6 +124,9 @@
 						"condensedTableLayout": true,
 						"multiSelect": true,
 						"tableType": "ResponsiveTable",
+						"dataLoadSettings": {
+							"loadDataOnAppLaunch": "always"
+						},
 						"filterSettings": {
 							"dateSettings": {
 								"useDateRange": true
